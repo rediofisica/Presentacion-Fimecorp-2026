@@ -1,0 +1,281 @@
+ # diapositiva de título
+
+---
+
+##  INTRODUCCIÓN
+
+---
+
+##  COMISIONADO DEL RTPS: ¿UN QUEBRADERO DE CABEZA?
+* Es una de las tareas más relevante en Física Médica → todo que hagamos en este momento va a afectar el tratamiento del paciente en el futuro
+* Frecuentemente, limitaciones materiales y de tiempo → el proceso puede ser claramente estresante 
+
+Pero:
+
+* Puede ser gratificante y aporta conocimientos y experiencia al profesional que la realiza
+* En la actualidad los fabricantes facilitan el proceso 
+
+---
+
+## GUÍAS DE QA: HISTORIA
+
+* AAPM TG53 (1998) [1]
+* SEFM 2003 [2]
+* IAEA TRS430 (2005) [3]
+* Otras guías nacionales e internacionales
+
+Paradigma: pruebas en condiciones de cálculo distintas a las de los datos de modelado → campos asimétricos, DFS ≠ 100 cm, inhomogeneidades...
+
+---
+
+## GUÍA SEFM 2024 [4] Y TENDENCIAS ACTUALES
+
+Nuevos paradigmas:
+
+* Profundización en el Modelado del Colimador Multilámina (MLC)
+* Pruebas End-to-End (E2E), Auditorías y Soluciones de Clase
+*Tolerancias Concretas y Gestión del Riesgo
+
+Tendencias:
+
+* Uso de "golden data" (Eclipse-Varian)
+* Modelado por el fabricante con datos del cliente (Monaco-Elekta)
+* Sistemas preconfigurados en fábrica (Halcyon-Varian, Radixact-Accuray): el usuario no puede ajustar el modelo
+
+Cada vez menos tareas a realizar por el físico médico → tendencia a modelar el MLC en todo caso
+
+---
+
+## EQUIPOS DE MEDIDA 
+
+---
+
+
+
+## EVOLUCIÓN DE LA TÉCNICA
+
+Antes:
+* Sólo tratamientos 3D conformado
+* Uso de cuba 3D+cámara de ionización/diodos
+
+En la actualidad: 
+
+* Tratamientos IMRT/VMAT
+* Detectores 2D-Arrays
+* Software de cálculo secundario (TG219 [5])
+
+
+---
+
+## UNA NOTA DE ATENCIÓN
+
+Hay que tener precaución al usar detectores que necesiten factores de corrección para su utilización → posibilidad de introducir errores en el modelado
+
+Especialmente los que requieran comisionado introduciendo datos del planificador → posible círculo vicioso
+
+Por seguridad es imprescindible combinar la información obtenida por distintos tipos de detectores
+
+---
+
+No existe el detector perfecto (diapo 2024), pero combinando varios podemos cubrir los huecos que un detector solo no cubre
+---
+
+## DELTA4 PHANTOM+: CARACTERÍSTICAS ADECUADAS PARA EL COMISIONADO
+
+* Independencia con la tasa de dosis (especialmente apropiado para VMAT)
+* Resolución suficiente (Frecuencia de Nyquist en VMAT)
+* Requiere pocos factores de corrección del usuario (calibración relativa de los array en fábrica)
+* Sólo corrección de tamaño de campo y calibración absoluta →  medida en cada diodo detector “poco procesada” 
+* Permite calibración absoluta (dosis en agua o dosis en medio)
+
+---
+
+## DELTA4 PHANTOM+: CARACTERÍSTICAS MENOS IDÓNEAS
+
+* Geometria cilíndrica → No es posible obtener perfiles como en otros detectores planos
+* Diodos tienen dependencia con la energía → requiere factores de corrección por tamaño de campo medidos por el usuario
+* Modelo de corrección de tamaño de campo de dos puntos podría ser demasiado simple → a tener en cuenta en tamaños de campo < 3 cm² 
+* Sólo cálculo en maniquí homogéneo (PMMA)
+
+---
+
+## NUESTRA EXPERIENCIA
+
+---
+
+## COMPLEJO ASISTENCIAL DE ZAMORA
+
+* Acelerador Truebeam:​
+
+	*MLC Millenium 120 (láminas de 5 y 10mm)​
+	*Haces de fotones 6X, 10X, 15X, 6FFF y 10FFF​
+	
+*IMRT/VMAT con 6X y  6FFF​
+*TPS Eclipse 15.6.05 ⇒ Comisionado de haces en 2019​
+*Actualización a versión 18.0.1 en Noviembre de 2024​
+*Eclipse 18.0.1 ⇒ modelo mejorado del MLC, (Enhanced MLC Model, EML)
+
+---
+
+## MODELADO DE HACES: VERIFICACIÓN
+
+Modelado
+
+* Introducción de datos medidos en nuestra unidad con cuba+detectores variados (PTW Semiflex, Microdiamond, Diodo)
+* Comparación con los golden data proporcionados por Varian → Coincidencia dentro del 0.5 - 1.0 %
+
+Verificación 
+
+* SEFM 2004: Comparación dosis calculada con medidas en cuba de agua (gantry a 0º) en condiciones distintas a las de modelado
+* Delta4 Phantom+: DQA de planes de tratamiento 3D (de más sencillos a más complejos)
+* Desde 2024: además software de cálculo independiente (Mobius3D, Varian Medical Systems)
+
+---
+
+## MODELADO DEL MLC: CASO PRÁCTICO
+
+
+
+## MODELO SIMPLIFICADO DEL MLC (ANTES DE ECLIPSE 18.0)
+
+Las láminas se representan con espesor 0​
+
+El efecto de borde de lámina redondeado puede ajustarse mediante un parámetro de tamaño de punto focal (spot size) en dirección X​
+
+---
+
+## ELM: MODELO MEJORADO DEL MLC (Eclipse 18.0 en adelante)​
+
+Tiene en cuenta el espesor de las láminas y la forma del borde redondeado
+
+Fluencia transmitida modelada con más precisión
+
+No es necesario usar el parámetro spot size X para modelar el efecto del borde redondeado de lámina
+
+Hueco de cada lámina para el tornillo del motor
+
+van Esch et Al. [6]​
+
+---
+
+## PARÁMETROS DE MODELADO DEL MLC​
+
+Dos parámetros determinados por el usuario (específicos de cada unidad):​
+
+* Transmisión de lámina​
+* DLG (Dosimetric leaf gap)​
+
+	* En el modelo antiguo: afectado por cambios en calibración mecánica del gap y mayor transmisión en borde redondeado de lámina. Valores en el rango 0.1 - 1.5 mm​
+	* En en el nuevo modelo ELM:  solo calibración mecánica del gap (borde redondeado ya incluido en el modelo). El valor puede ser negativo​
+	
+* Existen procedimientos recomendados por el fabricante para ambos modelos
+
+---
+
+## PROCEDIMIENTO PARA LA DETERMINACIÓN DE PARÁMETROS RECOMENDADO POR EL FABRICANTE
+
+Transmisión: medida con MLC cerrado (1 medida por banco)​
+
+DLG: Método de barrido campos sliding window con distintos tamaños de gap (2 a 20 mm)​
+
+Medida con cámara farmer en agua​
+
+Obtención del DLG:
+
+* Modelo antiguo: medidas + ajuste lineal con libro excel
+* ELM: introducción de medidas en el espacio de modelado de Eclipse + proceso iterativo de cálculo de dosis
+	
+---
+
+## PROCEDIMIENTO ALTERNATIVO PARA EL MODELADO DEL MLC​
+
+Yao et Al. [7] y Hernandez et Al. [8]
+
+Uso de campos de test con aperturas definidas por dos parámetros:​
+
+* LG (Leaf Gap)​
+* TG (extensión de lámina)​
+
+Administración del campo dinámica, con la apertura deslizando de un lado a otro varias veces (emula un plan VMAT)​
+
+Combinación de valores de LG y TG de 10 a 30 mm y de 0 a 20 mm​
+
+El DLG óptimo es el que minimiza la diferencia de dosis calculada-medida para todos los campos​
+
+Modelo antiguo: se introduce valor de DLG optimizado directamente​
+
+Modelo EMLC: es necesario “tunear” las medidas de dosis que se introducen en la interfaz para obtener el DLG optimizado
+
+---
+
+## MÉTRICAS DE COMPLEJIDAD DEL PLAN​
+
+* Script (ESAPI) que permite calcular métricas de complejidad de cada campo​
+* Calcula dos métricas relevantes: Edge Metric (EM) [9] y Modulation Metric (MM) [10]
+* Permite relacionar la complejidad de los planes clínicos con los planes de prueba​
+* Todos los planes clínicos en nuestra institución tienen valores de EM < 0.25
+
+
+
+Edge Metric​
+
+Modulation Metric​
+
+---
+
+## RESULTADOS DE LA DETERMINACIÓN DEL DLG​
+
+* Se usaron los valores medidos con una cámara Farmer
+* En todas las energías los valores óptimos son 0.3-0.4 mm mayores que los obtenidos por el método de Varian en los dos modelos de MLC​
+* Se consiguió optimizar el DLG de forma que las diferencias de dosis sean inferiores al 3%, salvo para las aperturas más irregulares (EM > 0.39)
+
+---
+
+## VERIFICACIÓN DEL DLG CON EL DELTA4 PHANTOM+
+
+* Delivery QA (DQA) sobre el Delta4, se obtuvo índice gamma y desviación de dosis 
+
+---
+
+## PRUEBA DE LA SILLA
+
+---
+
+## VERIFICACIÓN DEL MODELO A POSTERIORI: ESTADÍSTICAS DQA
+
+*Verificación pretratamiento de todos los planes clínicos con tres métodos: ​
+	* Delta4 Phantom Plus (Scandidos AB) ​
+	* Cámara de ionización PTW Semiflex en agua sólida (PTW Freiburg) ​
+	* Dosimetría portal (Varian)  ​
+
+1166 planes en total desde 2020, de los cuales: ​
+	* Eclipse 15.6.05 ⇒ 981 ​
+	* Eclipse 18.0.1 ⇒ 185 ​(a abril 2025)
+Registro de todas las medidas en una base de datos 
+
+
+---
+
+## CONCLUSIONES
+
+* El Delta4 Phantom+ tiene características que lo convierten en una excelente herramienta para el modelado y verificación del sistema de planificación
+* Pero: dependencia con la energía de los diodos → precaución en la introducción de los factores de corrección de tamaño de campo → hay que ser conscientes de las limitaciones del detector para no introducir distorsiones en el modelo
+* Importante usarlo en combinación con otros detectores → la cámara de ionización sigue siendo el "gold standard" → el Delta4 Phantom+ cubre los huecos donde esta no llega  
+
+---
+
+## BIBLIOGRAFÍA
+
+
+1. Fraass B, Doppke K, Hunt M, Kutcher G, Starkschall G, Stern R, et al. **American association of physicists in medicine radiation therapy committee task group 53: Quality assurance for clinical radiotherapy treatment planning.** Med Phys. 1998;25(10):1773–829. doi:10.1118/1.598373 PubMed PMID: 9800687.
+2. Miguel J, Rodríguez D, Cebrián EM. PROTOCOLO NACIONAL DE CONTROL DE CALIDAD EN SISTEMAS DE PLANIFICACION DE TERAPIA CON RADIACIONES. 2003.
+3. IAEA. **COMMISSIONING AND QUALITY ASSURANCE OF COMPUTERIZED PLANNING SYSTEMS FOR RADIATION TREATMENT OF CANCER.** Iaea Tecdoc. 2005. 142 p.
+4. Romero AG, Trujillo MB, García AT, Gutiérrez FC, Cano DM, Masgrau VH. **Guide for quality control and safety of external radiotherapy planning systems and treatment plans.** Revista de Fisica Medica. 2024 May 5;25(1):123–82. doi:10.37004/sefm/2024.25.1.008
+5. Zhu TC, Stathakis S, Clark JR, Feng W, Georg D, Holmes SM, et al. **Report of AAPM Task Group 219 on independent calculation-based dose/MU verification for IMRT.** Med Phys. 2021. doi:10.1002/mp.15069 PubMed PMID: 34213772.
+6. van Esch A, Kulmala A, Rochford R, Kauppinen J, Harju A. **Testing of an enhanced leaf model for improved dose calculation in a commercial treatment planning system.** Medical Physics. 2022 Dec 1;49(12):7754–65.​
+7. Yao W, Farr JB. **Determining the optimal dosimetric leaf gap setting for rounded leaf-end multileaf collimator systems by simple test fields.** Journal of Applied Clinical Medical Physics [Internet]. 2015 Jul 2;16(4):65–77. ​
+8. Hernandez V, Vera-Sánchez JA, Vieillevigne L, Saez J. **Commissioning of the tongue-and-groove modelling in treatment planning systems: from static fields to VMAT treatments.** Physics in Medicine & Biology [Internet]. 2017 Aug 1;62(16):6688–707.​
+9. Younge KC, Matuszak MM, Moran JM, McShan DL, Fraass BA, Roberts DA. **Penalization of aperture complexity in inversely planned volumetric modulated arc therapy.** Medical Physics. 2012;39(11):7160–70.​
+10. Du W, Cho SH, Zhang X, Hoffman KE, Kudchadker RJ. **Quantification of beam complexity in intensity-modulated radiation therapy treatment plans.** Medical Physics. 2014;41(2).
+
+
