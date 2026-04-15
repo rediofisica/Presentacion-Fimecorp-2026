@@ -1,3 +1,4 @@
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/9633549/logoHVCN.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/9633550/logoJunta.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/9633551/SacylLogo.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10259134/pasted-from-clipboard.png
@@ -13,6 +14,7 @@ https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10222671/dolphin-
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808008/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808099/Gemini_Generated_Image_yd3h8hyd3h8hyd3h.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808109/Gemini_Generated_Image_1k1e4h1k1e4h1k1e.png
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248267/castilla.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10213252/tasa_de_dosis-camara.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10241342/Captura_de_pantalla_de_2023-02-21_20-49-02.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11231980/Delta4Calibration.png
@@ -20,15 +22,16 @@ https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11229196/Delta4Tr
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/11238639/FieldSizeCalibr.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807468/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807478/image.png
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248264/leon.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803135/ELM.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803135/ELM.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803141/MLCLeafsPhotos.jpg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803152/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803153/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803157/TGBeam_SEFM25.png
-https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12806911/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12809641/DLG1.gif
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12809663/DLG2.gif
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12806911/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807175/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807179/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807195/image.png
@@ -43,8 +46,6 @@ https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807128/image.pn
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807158/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807161/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248267/castilla.svg
-https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10228745/Silla.PNG
-https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10228752/SillaReconst.PNG
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229393/Silla2.PNG
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229401/SillaReconst2.PNG
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229452/SillaPerfil2.PNG
@@ -63,3 +64,6 @@ https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808307/6FFF_Met
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808311/Localizaciones_Camara_Eclipse15_vs_Eclipse18.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808316/Localizaciones_Gamma2_2_Eclipse15_vs_Eclipse18.svg
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808356/Localizaciones_Gamma3_2_Eclipse15_vs_Eclipse18.svg
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12553850/Creaci%C3%B3n_de_GIF_Animado_de_Acelerador__1_.gif
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248267/castilla.svg
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248264/leon.svg

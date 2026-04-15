@@ -17,14 +17,14 @@
         <div class="theme-font-helvetica theme-color-white-blue" style="width: 100%; height: 100%;">
     <div class="reveal">
         <div class="slides">
-            <section data-id="e572fe573e8d">
+            <section data-background-video="https://media.slid.es/videos/111310/cTt2Mzad/caratulapresentacion.mp4" data-background-video-muted="true" data-background-video-loop="true" data-background-video-thumb="./111310/cTt2Mzad/caratulapresentacion_thumb_00001.jpg" data-background-opacity="0.46" data-id="73c1368f4cb0859f8b4647b98ce0b6dc">
                 <div class="sl-block" data-block-type="text" style="width: 806px; left: 86.588px; top: 294px; height: auto;" data-block-id="6f738afe8e26" data-name="Text 1">
                     <div class="sl-block-content" data-placeholder-tag="h1" style="z-index: 10; font-size: 90%;" data-placeholder-text="Text">
                         <h3><span style="color:black">USANDO EL DELTA 4 PHANTOM+ PARA EL COMISIONADO DEL SISTEMA DE PLANIFICACIÓN: NUESTRA EXPERIENCIA</span></h3>
                     </div>
                 </div>
                 <div class="sl-block" data-block-type="image" data-name="image-d47ee4" style="width: 197.118px; height: 128.356px; left: 726.588px; top: 14.5px; min-width: 1px; min-height: 1px;" data-block-id="5390eadd5eb2">
-                    <div class="sl-block-content" style="z-index: 11;"><img style="" data-natural-width="43" data-natural-height="28" data-lazy-loaded="" data-src="https://media.slid.es/uploads/111310/images/9633549/logoHVCN.svg"></div>
+                    <div class="sl-block-content" style="z-index: 11;"><img style="" data-natural-width="43" data-natural-height="28" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/9633549/logoHVCN.svg"></div>
                 </div>
                 <div class="sl-block" data-block-type="image" data-name="image-e0c193" style="width: 204.889px; height: 128.356px; left: 41.699px; top: 14.5px; min-width: 1px; min-height: 1px;" data-block-id="ad3104d0435f">
                     <div class="sl-block-content" style="z-index: 12;"><img style="" data-natural-width="1194" data-natural-height="748" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/9633550/logoJunta.svg"></div>
@@ -62,7 +62,7 @@
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="text" style="width: 853.334px; left: 106.666px; top: 202.913px; height: 166.99px;" data-block-id="983f23643230" data-text-layout="fixed">
-                        <div class="sl-block-content" style="font-size: 85%; z-index: 10; line-height: 1.69;" data-placeholder-tag="p" data-has-line-height="">
+                        <div class="sl-block-content" style="font-size: 85%; z-index: 10; line-height: 1.69;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
                             <ul>
                                 <li>Es una de las tareas más relevante en Física Médica → todo lo que hagamos en este momento va a afectar el tratamiento del paciente en el futuro</li>
                                 <li>Frecuentemente, limitaciones materiales y de tiempo → el proceso puede ser claramente estresante</li>
@@ -254,6 +254,11 @@
                     <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="739acb498437" style="width: 327px; height: 361.548px; left: 291.365px; top: 350px; min-width: 1px; min-height: 1px;">
                         <div class="sl-block-content fragment" style="z-index: 15;" data-fragment-index="1"><img class="" data-natural-width="1221" data-natural-height="1350" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808109/Gemini_Generated_Image_1k1e4h1k1e4h1k1e.png"></div>
                     </div>
+                    <div class="sl-block" data-block-type="image" data-name="image-877b65" style="width: 353.273px; height: 402px; left: 703.363px; top: 457px; min-width: 1px; min-height: 1px;" data-block-id="5231f3ff4c5e">
+                        <div class="sl-block-style" style="z-index: 16; opacity: 0.25;">
+                            <div class="sl-block-content" style="z-index: 16;"><img class="" data-natural-width="29" data-natural-height="33" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248267/castilla.svg"></div>
+                        </div>
+                    </div>
                 </section>
                 <section data-id="794b5f815c2b">
                     <div class="sl-block" data-block-type="text" style="height: auto; width: 960px; left: 0px; top: 0px;" data-block-id="69184665530d">
@@ -322,9 +327,9 @@
             </section>
             <section class="stack" data-id="0f1496038109">
                 <section data-id="30982509f43d">
-                    <div class="sl-block" data-block-type="text" style="height: auto; width: 689.5px; left: 135.25px; top: 276px;" data-block-id="0dba69074be0">
+                    <div class="sl-block" data-block-type="text" style="height: auto; width: 960px; left: 0px; top: 276px;" data-block-id="0dba69074be0">
                         <div class="sl-block-content" data-has-letter-spacing="" data-has-line-height="" data-placeholder-tag="p" style="z-index: 10; color: rgb(28, 69, 135); text-align: center;" data-placeholder-text="Text">
-                            <h2>NUESTRA EXPERIENCIA: AJUSTE DEL DLG</h2>
+                            <h2>NUESTRA EXPERIENCIA: AJUSTE DE PARÁMETROS DEL MLC</h2>
                         </div>
                     </div>
                 </section>
@@ -362,10 +367,20 @@
                     <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="97e8fa943c8b" style="width: 173.649px; height: 312.972px; left: 757.649px; top: 266.028px; min-width: 1px; min-height: 1px;">
                         <div class="sl-block-content" style="z-index: 14;"><img class="" data-natural-width="344" data-natural-height="620" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807478/image.png"></div>
                     </div>
+                    <div class="sl-block" data-block-type="shape" data-name="Shape 1" data-block-id="e81c156524c6" style="width: 740px; height: 72px; left: 0px; top: 512px;">
+                        <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 15;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 740 72">
+                                <defs>
+                                    <clipPath id="shape-mask-1-1776275135341">
+                                        <rect width="740" height="72" rx="0" ry="0"></rect>
+                                    </clipPath>
+                                </defs>
+                                <rect width="740" height="72" rx="0" ry="0" clip-path="url(#shape-mask-1-1776275135341)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
+                            </svg></div>
+                    </div>
                 </section>
                 <section data-id="3ec4e330d946">
                     <div class="sl-block" data-block-type="text" style="height: auto; width: 960px; left: 0px; top: 0px;" data-block-id="cfa2ca8621b8">
-                        <div class="sl-block-content" data-has-letter-spacing="" data-has-line-height="" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; color: rgb(28, 69, 135); font-size: 70%;">
+                        <div class="sl-block-content" data-has-letter-spacing="" data-has-line-height="" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; color: rgb(28, 69, 135); font-size: 70%;">
                             <h2 style="text-align:left">MODELADO DE HACES: VERIFICACIÓN</h2>
                         </div>
                     </div>
@@ -385,12 +400,12 @@
                     <div class="sl-block sl-block-group" data-block-type="group" data-name="Group 1" data-block-id="97d57ebab41c">
                         <div class="sl-block-content sl-block-group-content fragment" style="transform-origin: 480px 464px; z-index: 11;" data-fragment-index="0">
                             <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 364px; height: auto;" data-block-id="c5dc20679f9e">
-                                <div class="sl-block-content" style="font-size: 75%; line-height: 1.43; z-index: 15;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
+                                <div class="sl-block-content" style="font-size: 75%; line-height: 1.43; z-index: 12;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
                                     <p style="text-align:justify"><strong>Verificación</strong></p>
                                 </div>
                             </div>
                             <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 403px; height: auto;" data-block-id="1538d2aa9e3f">
-                                <div class="sl-block-content" style="font-size: 75%; line-height: 1.43; z-index: 16;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
+                                <div class="sl-block-content" style="font-size: 75%; line-height: 1.43; z-index: 13;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
                                     <ul>
                                         <li>SEFM 2004: <strong>Comparación dosis calculada con medidas en cuba</strong>&nbsp;de agua (gantry a 0º) en condiciones distintas a las de modelado</li>
                                         <li>Delta4 Phantom+: <strong>DQA de planes de tratamiento 3D</strong>&nbsp;(de más sencillos a más complejos)</li>
@@ -398,6 +413,11 @@
                                     </ul>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" data-name="image-fcf60d" style="width: 623.149px; height: 721.541px; left: 613.862px; top: -67.886px; min-width: 1px; min-height: 1px;" data-block-id="0fc165114d21">
+                        <div class="sl-block-style" style="z-index: 16; opacity: 0.25; transform: rotate(-40deg);">
+                            <div class="sl-block-content" style="z-index: 16;"><img class="" data-natural-width="38" data-natural-height="44" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248264/leon.svg"></div>
                         </div>
                     </div>
                 </section>
@@ -421,12 +441,12 @@
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 610px; height: auto;" data-block-id="9920c3eeb6d6" data-name="Text 4">
-                        <div class="sl-block-content fragment" style="font-size: 60%; z-index: 16;" data-placeholder-tag="p" data-placeholder-text="Text" data-fragment-index="1">
+                        <div class="sl-block-content" style="font-size: 60%; z-index: 16;" data-placeholder-tag="p" data-placeholder-text="Text">
                             <p style="text-align:justify">El efecto de borde de lámina redondeado puede ajustarse mediante un parámetro de tamaño de punto focal (spot size) en dirección X​</p>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="line" data-name="Line 2" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 245.5px; top: 450.5px;" data-block-id="62bb41d92ee0">
-                        <div class="sl-block-content fragment" data-line-x1="0" data-line-y1="164" data-line-x2="302" data-line-y2="0" data-line-color="#0000ff" data-line-width="2px" data-line-start-type="none" data-line-end-type="line-arrow" data-line-style="solid-rounded" style="z-index: 17;" data-line-c="0" data-fragment-index="1"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="302" height="164" viewBox="0 0 302 164">
+                        <div class="sl-block-content" data-line-x1="0" data-line-y1="164" data-line-x2="302" data-line-y2="0" data-line-color="#0000ff" data-line-width="2px" data-line-start-type="none" data-line-end-type="line-arrow" data-line-style="solid-rounded" style="z-index: 17;" data-line-c="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="302" height="164" viewBox="0 0 302 164">
                                 <path class="line-element" fill="rgba(0,0,0,0)" stroke="#0000ff" stroke-width="2" stroke-linecap="round" d="M0 164 L300.242 0.954"></path>
                                 <path stroke="#0000ff" stroke-width="2" d="M 293.203 -2.051 L 301.339 0.359 L 298.93 8.495 L 301.339 0.359" stroke-linecap="round" stroke-linejoin="round" class="line-end"></path>
                                 <path class="line-skeleton" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,0)" d="M0 164 L302 0"></path>
@@ -434,12 +454,12 @@
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="text" style="width: 259px; left: 677.5px; top: 242px; height: auto;" data-block-id="9531f437335c" data-name="Text 3">
-                        <div class="sl-block-content fragment" style="font-size: 60%; z-index: 13;" data-placeholder-tag="p" data-placeholder-text="Text" data-fragment-index="0">
+                        <div class="sl-block-content" style="font-size: 60%; z-index: 13;" data-placeholder-tag="p" data-placeholder-text="Text">
                             <p style="text-align:justify">Las láminas se representan con espesor 0​</p>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="line" data-name="Line 1" data-block-id="ff61b756ff61" style="width: auto; height: auto; min-width: 0px; min-height: 0px; left: 624px; top: 289px;">
-                        <div class="sl-block-content fragment" data-line-x1="89" data-line-y1="0" data-line-x2="0" data-line-y2="83.5" data-line-color="#0000ff" data-line-width="2px" data-line-start-type="none" data-line-end-type="line-arrow" data-line-style="solid-rounded" style="z-index: 14;" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="89" height="83.5" viewBox="0 0 89 83.5">
+                        <div class="sl-block-content" data-line-x1="89" data-line-y1="0" data-line-x2="0" data-line-y2="83.5" data-line-color="#0000ff" data-line-width="2px" data-line-start-type="none" data-line-end-type="line-arrow" data-line-style="solid-rounded" style="z-index: 14;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="89" height="83.5" viewBox="0 0 89 83.5">
                                 <path class="line-element" fill="rgba(0,0,0,0)" stroke="#0000ff" stroke-width="2" stroke-linecap="round" d="M89 0 L1.459 82.132"></path>
                                 <path stroke="#0000ff" stroke-width="2" d="M 9.029 83.256 L 0.548 82.986 L 0.819 74.505 L 0.548 82.986" stroke-linecap="round" stroke-linejoin="round" class="line-end"></path>
                                 <path class="line-skeleton" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,0)" d="M89 0 L0 83.5"></path>
@@ -462,7 +482,7 @@
                         </div>
                     </div>
                     <div class="sl-block sl-block-group" data-block-type="group" data-name="Group 1" data-block-id="ae4cffa2ff83">
-                        <div class="sl-block-content sl-block-group-content fragment" style="transform-origin: 148.75px 366.75px; z-index: 23;" data-fragment-index="0">
+                        <div class="sl-block-content sl-block-group-content" style="transform-origin: 148.75px 366.75px; z-index: 23;">
                             <div class="sl-block" data-block-type="text" style="width: 174px; left: 0px; top: 210px; height: auto;" data-block-id="5420ac26daa2" data-name="Text 5">
                                 <div class="sl-block-content" style="font-size: 65%; z-index: 27;" data-placeholder-tag="p" data-placeholder-text="Text">
                                     <p style="text-align:justify"><strong>Hueco</strong>&nbsp;de cada lámina para el tornillo del motor</p>
@@ -482,7 +502,7 @@
                         </div>
                     </div>
                     <div class="sl-block sl-block-group" data-block-type="group" data-name="Group 2" data-block-id="2794e22e1a2a">
-                        <div class="sl-block-content sl-block-group-content fragment" style="transform-origin: 811.375px 589.5px; z-index: 18;" data-fragment-index="1">
+                        <div class="sl-block-content sl-block-group-content" style="transform-origin: 811.375px 589.5px; z-index: 18;">
                             <div class="sl-block" data-block-type="text" style="width: 176px; left: 784px; top: 548.5px; height: auto;" data-block-id="d0b47d929e5b" data-name="Text 3">
                                 <div class="sl-block-content" style="font-size: 65%; z-index: 21;" data-placeholder-tag="p" data-placeholder-text="Text">
                                     <p style="text-align:justify">Fluencia transmitida modelada con más precisión</p>
@@ -499,7 +519,7 @@
                         </div>
                     </div>
                     <div class="sl-block sl-block-group" data-block-type="group" data-name="Group 3" data-block-id="1e78c03c977b">
-                        <div class="sl-block-content sl-block-group-content fragment" style="transform-origin: 784px 464.5px; z-index: 30;" data-fragment-index="2">
+                        <div class="sl-block-content sl-block-group-content" style="transform-origin: 784px 464.5px; z-index: 30;">
                             <div class="sl-block" data-block-type="text" style="width: 242.5px; left: 720px; top: 397.25px; height: auto;" data-block-id="bf0c5c74ef78" data-name="Text 2">
                                 <div class="sl-block-content" style="font-size: 65%; z-index: 33;" data-placeholder-tag="p" data-placeholder-text="Text">
                                     <p style="text-align:justify">Tiene en cuenta el <strong>espesor</strong>&nbsp;de las láminas y la forma del <strong>borde redondeado</strong></p>
@@ -516,7 +536,7 @@
                         </div>
                     </div>
                     <div class="sl-block sl-block-group" data-block-type="group" data-name="Group 4" data-block-id="f7d3dcba4cfe">
-                        <div class="sl-block-content sl-block-group-content fragment" style="transform-origin: 272.5px 578.5px; z-index: 14;" data-fragment-index="3">
+                        <div class="sl-block-content sl-block-group-content" style="transform-origin: 272.5px 578.5px; z-index: 14;">
                             <div class="sl-block" data-block-type="text" style="width: 213px; left: 0px; top: 515px; height: auto;" data-block-id="9fe038d6bf1a" data-name="Text 4">
                                 <div class="sl-block-content" style="font-size: 65%; z-index: 15;" data-placeholder-tag="p" data-placeholder-text="Text">
                                     <p style="text-align:justify">No es necesario usar el parámetro spot size X para modelar el efecto del borde redondeado de lámina</p>
@@ -547,19 +567,16 @@
                     <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 249.5px; height: auto;" data-block-id="d45816ae3e8c">
                         <div class="sl-block-content" style="font-size: 75%; line-height: 1.69;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
                             <ul>
-                                <li>
-                                    <p style="text-align:justify"><strong>Transmisión de lámina​</strong></p>
+                                <li class="fragment" data-fragment-index="0">
+                                    <p style="text-align:justify"><strong>Transmisión de lámina ​</strong><span style="color:rgb(0, 0, 0); font-size:22.5px; text-align:left">→</span>porcentaje de radiación atravesando la lámina</p>
                                 </li>
-                                <li>
-                                    <p><strong>DLG</strong>&nbsp;(Dosimetric leaf gap)​</p>
+                                <li class="fragment" data-fragment-index="1">
+                                    <p><strong>DLG</strong>&nbsp;(Dosimetric leaf gap)​ <span style="color:rgb(0, 0, 0); font-size:22.5px; text-align:left">→</span>&nbsp;factor (mm) que corrige los siguientes efectos:</p>
 
                                     <ul>
-                                        <li>En el modelo antiguo: afectado por cambios en <strong>calibración mecánica del gap</strong>&nbsp;y mayor transmisión en <strong>borde redondeado</strong>&nbsp;de lámina. Valores en el rango 0.1 - 1.5 mm​</li>
+                                        <li>En el modelo antiguo: <strong>calibración mecánica del gap</strong>&nbsp;y mayor transmisión en <strong>borde redondeado</strong>&nbsp;de lámina. Valores en el rango 0.1 - 1.5 mm​</li>
                                         <li>En en el nuevo modelo ELM: <strong>solo calibración mecánica del gap</strong>&nbsp;(borde redondeado ya incluido en el modelo). El valor <strong>puede ser negativo</strong>​</li>
                                     </ul>
-                                </li>
-                                <li>
-                                    <p>Existen procedimientos recomendados por el fabricante para ambos modelos</p>
                                 </li>
                             </ul>
                         </div>
@@ -614,23 +631,23 @@
                         </div>
                     </div>
                 </section>
-                <section data-id="bca759a5a2fd">
-                    <div class="sl-block" data-block-type="text" style="height: auto; width: 960px; left: 0px; top: 0px;" data-block-id="568701f9837b">
+                <section data-id="bca759a5a2fd" data-auto-animate="">
+                    <div class="sl-block" data-block-type="text" style="height: auto; width: 960px; left: 0px; top: 0px;" data-block-id="568701f9837b" data-name="Text 1">
                         <div class="sl-block-content" data-has-letter-spacing="" data-has-line-height="" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18; color: rgb(28, 69, 135); font-size: 70%;">
                             <h2 style="text-align:left">PROCEDIMIENTO ALTERNATIVO PARA EL MODELADO DEL MLC​</h2>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 651.5px; left: 0px; top: 134px; height: auto;" data-block-id="6b53885a03e8">
+                    <div class="sl-block" data-block-type="text" style="width: 609.5px; left: 0px; top: 131px; height: auto;" data-block-id="6b53885a03e8" data-name="Text 2">
                         <div class="sl-block-content" style="font-size: 65%; z-index: 10;" data-placeholder-tag="p" data-placeholder-text="Text">
                             <p style="text-align:justify">Yao et Al. [7] y Hernandez et Al. [8]</p>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 651.5px; left: 0px; top: 183px; height: auto;" data-block-id="f891aba14836">
+                    <div class="sl-block" data-block-type="text" style="width: 609.5px; left: 0px; top: 180px; height: auto;" data-block-id="f891aba14836" data-name="Text 3">
                         <div class="sl-block-content" style="font-size: 65%; z-index: 11;" data-placeholder-tag="p" data-placeholder-text="Text">
                             <p style="text-align:justify">Uso de <strong>campos de test</strong>&nbsp;con aperturas definidas por dos parámetros:​</p>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 651.5px; left: 0px; top: 232px; height: auto;" data-block-id="52548c5cdf55">
+                    <div class="sl-block" data-block-type="text" style="width: 609.5px; left: 0px; top: 229px; height: auto;" data-block-id="52548c5cdf55" data-name="Text 4">
                         <div class="sl-block-content" style="font-size: 65%; z-index: 12;" data-placeholder-tag="p" data-placeholder-text="Text">
                             <ul>
                                 <li><strong>LG</strong>&nbsp;(Leaf Gap)​</li>
@@ -638,42 +655,62 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 651.5px; left: 0px; top: 320px; height: auto;" data-block-id="e095b2f579e6">
+                    <div class="sl-block" data-block-type="text" style="width: 961.372px; left: -1.372px; top: 638.489px; height: auto;" data-block-id="e095b2f579e6" data-name="Text 5">
                         <div class="sl-block-content fragment" style="font-size: 65%; z-index: 13;" data-placeholder-tag="p" data-placeholder-text="Text" data-fragment-index="0">
                             <p style="text-align:justify">Administración del campo dinámica, con la <strong>apertura deslizando</strong>&nbsp;de un lado a otro varias veces (emula un plan VMAT)​</p>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 651.5px; left: 0px; top: 408px; height: auto;" data-block-id="32cbf1b06d95">
-                        <div class="sl-block-content fragment" style="font-size: 65%; z-index: 14;" data-placeholder-tag="p" data-placeholder-text="Text" data-fragment-index="0">
+                    <div class="sl-block" data-block-type="image" data-name="Image 1" data-block-id="2a334a751381" style="width: 428.69px; height: 461.037px; left: 502.682px; top: 210px; min-width: 1px; min-height: 1px;">
+                        <div class="sl-block-content fragment fade-out" style="z-index: 19;" data-fragment-index="0"><img class="" data-natural-width="1100" data-natural-height="1183" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803157/TGBeam_SEFM25.png"></div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" data-name="Image 3" data-block-id="021c75fef362" style="width: 620px; height: 348.75px; left: 176.001px; top: 280px; min-width: 1px; min-height: 1px;">
+                        <div class="sl-block-content fragment current-visible" style="z-index: 21;" data-fragment-index="0"><img class="" data-natural-width="480" data-natural-height="270" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12809641/DLG1.gif"></div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" data-name="Image 4" data-block-id="558ad437b32f" style="width: 620.444px; height: 349px; left: 176px; top: 280px; min-width: 1px; min-height: 1px;">
+                        <div class="sl-block-content fragment current-visible" style="z-index: 22;" data-fragment-index="1"><img class="" data-natural-width="480" data-natural-height="270" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12809663/DLG2.gif"></div>
+                    </div>
+                </section>
+                <section data-auto-animate="" data-id="b581ae1662cb">
+                    <div class="sl-block" data-block-type="text" style="height: auto; width: 960px; left: 0px; top: 0px;" data-name="Text 1" data-block-id="5808232768a5">
+                        <div class="sl-block-content" data-has-letter-spacing="" data-has-line-height="" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16; color: rgb(28, 69, 135); font-size: 70%;">
+                            <h2 style="text-align:left">PROCEDIMIENTO ALTERNATIVO PARA EL MODELADO DEL MLC​</h2>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="text" style="width: 609.5px; left: 0px; top: 204px; height: auto;" data-name="Text 2" data-block-id="89bf1d769185">
+                        <div class="sl-block-content" style="font-size: 65%; z-index: 10;" data-placeholder-tag="p" data-placeholder-text="Text">
+                            <p style="text-align:justify">Yao et Al. [7] y Hernandez et Al. [8]</p>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="text" style="width: 609.5px; left: 0px; top: 253px; height: auto;" data-name="Text 3" data-block-id="5b3b582e0f41">
+                        <div class="sl-block-content" style="font-size: 65%; z-index: 11;" data-placeholder-tag="p" data-placeholder-text="Text">
+                            <p style="text-align:justify">Uso de <strong>campos de test</strong>&nbsp;con aperturas definidas por dos parámetros:​</p>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="text" style="width: 609.5px; left: 0px; top: 302px; height: auto;" data-name="Text 4" data-block-id="932a671667d7">
+                        <div class="sl-block-content" style="font-size: 65%; z-index: 12;" data-placeholder-tag="p" data-placeholder-text="Text">
+                            <ul>
+                                <li><strong>LG</strong>&nbsp;(Leaf Gap)​</li>
+                                <li><strong>TG</strong>&nbsp;(extensión de lámina)​</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="text" style="width: 609.5px; left: 0px; top: 390px; height: auto;" data-name="Text 5" data-block-id="b5d714c7e058">
+                        <div class="sl-block-content" style="font-size: 65%; z-index: 13;" data-placeholder-tag="p" data-placeholder-text="Text">
+                            <p style="text-align:justify">Administración del campo dinámica, con la <strong>apertura deslizando</strong>&nbsp;de un lado a otro varias veces (emula un plan VMAT)​</p>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="text" style="width: 609.5px; left: 0px; top: 502.621px; height: auto;" data-name="Text 6" data-block-id="9c7959d9b510">
+                        <div class="sl-block-content" style="font-size: 65%; z-index: 14;" data-placeholder-tag="p" data-placeholder-text="Text">
                             <p style="text-align:justify">Combinación de valores de LG y TG de <strong>10 a 30 mm</strong>&nbsp;y de <strong>0 a 20 mm</strong>​</p>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 651.5px; left: 0px; top: 457px; height: auto;" data-block-id="bbb03afdcc9e">
-                        <div class="sl-block-content fragment" style="font-size: 65%; z-index: 15;" data-placeholder-tag="p" data-placeholder-text="Text" data-fragment-index="2">
+                    <div class="sl-block" data-block-type="text" style="width: 880px; left: 0px; top: 570px; height: auto;" data-name="Text 7" data-block-id="e92a623fdec2">
+                        <div class="sl-block-content fragment" style="font-size: 65%; z-index: 15;" data-placeholder-tag="p" data-placeholder-text="Text" data-fragment-index="0">
                             <p style="text-align:justify">El DLG óptimo es el que <strong>minimiza la diferencia</strong>&nbsp;de dosis calculada-medida para todos los campos​</p>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 651.5px; left: 0px; top: 545px; height: auto;" data-block-id="f65f53971abb">
-                        <div class="sl-block-content fragment" style="font-size: 65%; z-index: 16;" data-placeholder-tag="p" data-placeholder-text="Text" data-fragment-index="2">
-                            <p style="text-align:justify">Modelo antiguo: se introduce valor de DLG optimizado directamente​</p>
-                        </div>
-                    </div>
-                    <div class="sl-block" data-block-type="text" style="width: 651.5px; left: 0px; top: 594px; height: auto;" data-block-id="edb6a2e283ed">
-                        <div class="sl-block-content fragment" style="font-size: 65%; z-index: 17;" data-placeholder-tag="p" data-placeholder-text="Text" data-fragment-index="2">
-                            <p style="text-align:justify">Modelo EMLC: es necesario “tunear” las medidas de dosis que se introducen en la interfaz para obtener el DLG optimizado</p>
-                        </div>
-                    </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 1" data-block-id="2a334a751381" style="width: 300.372px; height: 323.037px; left: 661px; top: 222px; min-width: 1px; min-height: 1px;">
-                        <div class="sl-block-content fragment fade-out" style="z-index: 19;" data-fragment-index="0"><img class="" data-natural-width="1100" data-natural-height="1183" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803157/TGBeam_SEFM25.png"></div>
-                    </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="87994a017463" style="width: 314.442px; height: 214.711px; left: 661px; top: 296.104px; min-width: 1px; min-height: 1px;">
-                        <div class="sl-block-content fragment" style="z-index: 20;" data-fragment-index="2"><img class="" data-natural-width="763" data-natural-height="521" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12806911/image.png"></div>
-                    </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 3" data-block-id="021c75fef362" style="width: 293.333px; height: 165px; left: 661px; top: 301.019px; min-width: 1px; min-height: 1px;">
-                        <div class="sl-block-content fragment current-visible" style="z-index: 21;" data-fragment-index="0"><img class="" data-natural-width="480" data-natural-height="270" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12809641/DLG1.gif"></div>
-                    </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 4" data-block-id="558ad437b32f" style="width: 293px; height: 164.812px; left: 661px; top: 301px; min-width: 1px; min-height: 1px;">
-                        <div class="sl-block-content fragment current-visible" style="z-index: 22;" data-fragment-index="1"><img class="" data-natural-width="480" data-natural-height="270" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12809663/DLG2.gif"></div>
+                    <div class="sl-block" data-block-type="image" data-name="Image 2" style="width: 350.5px; height: 239.332px; left: 609.5px; top: 288.289px; min-width: 1px; min-height: 1px;" data-block-id="9cd0bea96692">
+                        <div class="sl-block-content fragment" style="z-index: 18;" data-fragment-index="0"><img class="" data-natural-width="763" data-natural-height="521" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12806911/image.png"></div>
                     </div>
                 </section>
                 <section data-id="af4bdc29f08a">
@@ -692,20 +729,20 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 156px; left: 121.91px; top: 646.5px; height: auto;" data-block-id="c2e3ae20f2e1">
+                    <div class="sl-block" data-block-type="text" style="width: 156px; left: 121.91px; top: 610px; height: auto;" data-block-id="c2e3ae20f2e1">
                         <div class="sl-block-content" style="font-size: 75%; z-index: 11;" data-placeholder-tag="p" data-placeholder-text="Text">
                             <p style="text-align:justify"><strong>Edge Metric​</strong></p>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 218px; left: 592.745px; top: 646.5px; height: auto;" data-block-id="de38809c91d6">
+                    <div class="sl-block" data-block-type="text" style="width: 218px; left: 592.745px; top: 610px; height: auto;" data-block-id="de38809c91d6">
                         <div class="sl-block-content" style="font-size: 75%; z-index: 12;" data-placeholder-tag="p" data-placeholder-text="Text">
                             <p style="text-align:justify"><strong>Modulation Metric​</strong></p>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 1" data-block-id="aa60de386c27" style="width: 399.821px; height: 256.626px; left: 0px; top: 362px; min-width: 1px; min-height: 1px;">
+                    <div class="sl-block" data-block-type="image" data-name="Image 1" data-block-id="aa60de386c27" style="width: 399.821px; height: 256.626px; left: 0px; top: 325.5px; min-width: 1px; min-height: 1px;">
                         <div class="sl-block-content" style="z-index: 14;"><img class="" data-natural-width="497" data-natural-height="319" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807175/image.png"></div>
                     </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="1629defb5086" style="width: 516.511px; height: 256.626px; left: 443.489px; top: 350px; min-width: 1px; min-height: 1px;">
+                    <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="1629defb5086" style="width: 516.511px; height: 256.626px; left: 443.489px; top: 313.5px; min-width: 1px; min-height: 1px;">
                         <div class="sl-block-content" style="z-index: 15;"><img class="" data-natural-width="634" data-natural-height="315" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807179/image.png"></div>
                     </div>
                 </section>
@@ -715,59 +752,58 @@
                             <h2 style="text-align:left">RESULTADOS DE LA DETERMINACIÓN DEL DLG​ CON CÁMARA DE IONIZACIÓN</h2>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 134px; height: auto;" data-block-id="2fcf4a32ecf0">
+                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 183px; height: auto;" data-block-id="2fcf4a32ecf0">
                         <div class="sl-block-content" style="font-size: 75%; line-height: 1.43; z-index: 10;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
                             <ul>
                                 <li>Se usaron los valores medidos con una cámara Farmer</li>
-                                <li>En todas las energías los valores óptimos son 0.3-0.4 mm mayores que los obtenidos por el método de Varian en los dos modelos de MLC​</li>
                                 <li>Se consiguió optimizar el DLG de forma que las <strong>diferencias de dosis</strong>&nbsp;sean <strong>inferiores al 3%</strong>, salvo para las aperturas más irregulares (EM &gt; 0.39)</li>
                             </ul>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 1" data-block-id="04479d7a69aa" style="width: 496.504px; height: 301.909px; left: 0px; top: 365px; min-width: 1px; min-height: 1px;">
+                    <div class="sl-block" data-block-type="image" data-name="Image 1" data-block-id="04479d7a69aa" style="width: 496.504px; height: 301.909px; left: 0px; top: 327.922px; min-width: 1px; min-height: 1px;">
                         <div class="sl-block-content" style="z-index: 12;"><img class="" data-natural-width="694" data-natural-height="422" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807195/image.png"></div>
                     </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="84bade22ce03" style="width: 469.636px; height: 301.909px; left: 490.364px; top: 365px; min-width: 1px; min-height: 1px;">
+                    <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="84bade22ce03" style="width: 469.636px; height: 301.909px; left: 490.364px; top: 327.922px; min-width: 1px; min-height: 1px;">
                         <div class="sl-block-content" style="z-index: 13;"><img class="" data-natural-width="700" data-natural-height="450" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807197/image.png"></div>
                     </div>
-                    <div class="sl-block" data-block-type="shape" data-name="Shape 1" data-block-id="baa0af77a6df" style="width: 20.3801px; height: 22.247px; left: 299.62px; top: 445.506px;">
+                    <div class="sl-block" data-block-type="shape" data-name="Shape 1" data-block-id="baa0af77a6df" style="width: 20.3801px; height: 22.247px; left: 299.62px; top: 408.428px;">
                         <div class="sl-block-content fragment" data-shape-type="circle" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 14;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 20 22">
                                 <defs>
-                                    <clipPath id="shape-mask-7-1776254483766">
+                                    <clipPath id="shape-mask-4-1776274491050">
                                         <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235"></ellipse>
                                     </clipPath>
                                 </defs>
-                                <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235" clip-path="url(#shape-mask-7-1776254483766)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></ellipse>
+                                <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235" clip-path="url(#shape-mask-4-1776274491050)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></ellipse>
                             </svg></div>
                     </div>
-                    <div class="sl-block" data-block-type="shape" data-name="Shape 2" style="width: 20.3801px; height: 22.247px; left: 379.62px; top: 426.402px;" data-block-id="6126f315184b">
+                    <div class="sl-block" data-block-type="shape" data-name="Shape 2" style="width: 20.3801px; height: 22.247px; left: 379.62px; top: 389.324px;" data-block-id="6126f315184b">
                         <div class="sl-block-content fragment" data-shape-type="circle" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 15;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 20 22">
                                 <defs>
-                                    <clipPath id="shape-mask-6-1776254483765">
+                                    <clipPath id="shape-mask-3-1776274491048">
                                         <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235"></ellipse>
                                     </clipPath>
                                 </defs>
-                                <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235" clip-path="url(#shape-mask-6-1776254483765)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></ellipse>
+                                <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235" clip-path="url(#shape-mask-3-1776274491048)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></ellipse>
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="shape" data-name="Shape 3" style="width: 20.3801px; height: 22.247px; left: 846.819px; top: 426.402px;" data-block-id="915aeff6d2b8">
                         <div class="sl-block-content fragment" data-shape-type="circle" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 16;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 20 22">
                                 <defs>
-                                    <clipPath id="shape-mask-5-1776254483764">
+                                    <clipPath id="shape-mask-2-1776274491045">
                                         <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235"></ellipse>
                                     </clipPath>
                                 </defs>
-                                <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235" clip-path="url(#shape-mask-5-1776254483764)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></ellipse>
+                                <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235" clip-path="url(#shape-mask-2-1776274491045)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></ellipse>
                             </svg></div>
                     </div>
-                    <div class="sl-block" data-block-type="shape" data-name="Shape 4" style="width: 20.3801px; height: 22.247px; left: 846.819px; top: 467.753px;" data-block-id="661e24a8c9a2">
+                    <div class="sl-block" data-block-type="shape" data-name="Shape 4" style="width: 20.3801px; height: 22.247px; left: 846.819px; top: 389.324px;" data-block-id="661e24a8c9a2">
                         <div class="sl-block-content fragment" data-shape-type="circle" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 17;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 20 22">
                                 <defs>
-                                    <clipPath id="shape-mask-4-1776254483761">
+                                    <clipPath id="shape-mask-1-1776274491042">
                                         <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235"></ellipse>
                                     </clipPath>
                                 </defs>
-                                <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235" clip-path="url(#shape-mask-4-1776254483761)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></ellipse>
+                                <ellipse rx="10.19005" ry="11.1235" cx="10.19005" cy="11.1235" clip-path="url(#shape-mask-1-1776274491042)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></ellipse>
                             </svg></div>
                     </div>
                 </section>
@@ -803,31 +839,31 @@
                     <div class="sl-block" data-block-type="shape" data-name="Shape 1" data-block-id="41582ff21610" style="width: 111px; height: 25px; left: 255px; top: 517px;">
                         <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 17;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="4"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 111 25">
                                 <defs>
-                                    <clipPath id="shape-mask-10-1776254483981">
+                                    <clipPath id="shape-mask-7-1776274522080">
                                         <rect width="111" height="25" rx="0" ry="0"></rect>
                                     </clipPath>
                                 </defs>
-                                <rect width="111" height="25" rx="0" ry="0" clip-path="url(#shape-mask-10-1776254483981)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
+                                <rect width="111" height="25" rx="0" ry="0" clip-path="url(#shape-mask-7-1776274522080)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="shape" data-name="Shape 2" style="width: 63px; height: 24px; left: 368.5px; top: 526px;" data-block-id="1e6754244bff">
                         <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 18;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="4"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 63 24">
                                 <defs>
-                                    <clipPath id="shape-mask-9-1776254483980">
+                                    <clipPath id="shape-mask-6-1776274522076">
                                         <rect width="63" height="24" rx="0" ry="0"></rect>
                                     </clipPath>
                                 </defs>
-                                <rect width="63" height="24" rx="0" ry="0" clip-path="url(#shape-mask-9-1776254483980)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
+                                <rect width="63" height="24" rx="0" ry="0" clip-path="url(#shape-mask-6-1776274522076)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="shape" data-name="Shape 3" style="width: 172px; height: 25px; left: 708px; top: 517px;" data-block-id="b44917c22643">
                         <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 19;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="4"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 172 25">
                                 <defs>
-                                    <clipPath id="shape-mask-8-1776254483979">
+                                    <clipPath id="shape-mask-5-1776274522071">
                                         <rect width="172" height="25" rx="0" ry="0"></rect>
                                     </clipPath>
                                 </defs>
-                                <rect width="172" height="25" rx="0" ry="0" clip-path="url(#shape-mask-8-1776254483979)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
+                                <rect width="172" height="25" rx="0" ry="0" clip-path="url(#shape-mask-5-1776274522071)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
                             </svg></div>
                     </div>
                 </section>
@@ -861,11 +897,11 @@
                             <h2 style="text-align:left">VERIFICACIÓN DEL DLG CON EL DELTA4 PHANTOM+: RESULTADOS</h2>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 523.5px; height: 85px;" data-name="Text 2" data-text-layout="fixed" data-block-id="9934d91f4bf7">
-                        <div class="sl-block-content" style="font-size: 75%; z-index: 11;" data-placeholder-tag="p" data-placeholder-text="Text">
+                    <div class="sl-block" data-block-type="text" style="width: 961px; left: 0px; top: 519px; height: auto;" data-name="Text 2" data-block-id="9934d91f4bf7">
+                        <div class="sl-block-content" style="font-size: 75%; z-index: 11;" data-placeholder-tag="p">
                             <ul>
                                 <li>La <strong>diferencia</strong>&nbsp;entre dosis media calculada y medida <strong>aumenta con el valor de la Edge Metric (EM)</strong></li>
-                                <li class="fragment" data-fragment-index="0">La <strong>dispersión</strong>&nbsp;de los valores de dosis de los diodos <strong>aumenta con el valor de la Edge Metric (EM)</strong></li>
+                                <li class="fragment" data-fragment-index="0">La <strong>dispersión</strong>&nbsp;de los valores de dosis (tamaño de la burbuja en el gráfico) <strong>aumenta con el valor de la Edge Metric (EM)</strong></li>
                                 <li class="fragment" data-fragment-index="1">El <strong>índice de modulación (MM) no afecta</strong>&nbsp;a los resultados, salvo para valores de EM&gt;0.4</li>
                             </ul>
 
@@ -935,77 +971,6 @@
                         <div class="sl-block-content" style="z-index: 12;" data-media-id="10241874" data-video-thumb="https://s3.amazonaws.com/media-p.slid.es/videos/111310/7FQDZkRx/sillaeditado_thumb_00001.jpg"><video playsinline="" controls="controls" poster="https://s3.amazonaws.com/media-p.slid.es/videos/111310/7FQDZkRx/sillaeditado_thumb_00001.jpg" data-paused-by-reveal="" data-autoplay="" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/videos/111310/7FQDZkRx/sillaeditado.mp4"></video></div>
                     </div>
                 </section>
-                <section data-id="3f81327e8423">
-                    <div class="sl-block" data-block-type="text" data-name="text-c4e0f6" style="height: auto; width: 960px; left: 0px; top: 0px;" data-block-id="e122a777a2bd">
-                        <div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 26; color: rgb(28, 69, 135);">
-                            <h3 style="text-align:left">TEST SILLA</h3>
-                        </div>
-                        <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; z-index: 10;" class="cGcvT"></grammarly-extension>
-                        <grammarly-extension data-grammarly-shadow-root="true" style="mix-blend-mode: darken; position: absolute; top: 0px; left: 0px; pointer-events: none; z-index: 10;" class="cGcvT"></grammarly-extension>
-                    </div>
-
-
-
-
-
-
-                    <div class="sl-block" data-block-type="image" data-name="image-fb5dd5" style="width: 960px; height: 588.132px; left: 0px; top: 103.868px; min-width: 1px; min-height: 1px;" data-block-id="a39bc7d3d0b8">
-                        <div class="sl-block-content fragment fade-out" style="z-index: 10;" data-fragment-index="0"><img class="" data-natural-width="1456" data-natural-height="892" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10228745/Silla.PNG"></div>
-                    </div>
-                    <div class="sl-block" data-block-type="text" data-name="text-eeac26" style="height: auto; width: 345px; left: 375px; top: 9px;" data-block-id="e4b90cdfa3df">
-                        <div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14;">
-                            <p>Gamma local 3%, 2 mm</p>
-
-                            <p>Umbral 20%</p>
-                        </div>
-                    </div>
-                    <div class="sl-block sl-block-group" data-block-type="group" data-name="group-416164" data-block-id="67b7b7fc4826">
-                        <div class="sl-block-content sl-block-group-content" style="transform-origin: 472px 377px; z-index: 11;">
-                            <div class="sl-block" data-block-type="image" data-name="image-66d524" style="width: 608.583px; height: 588.132px; left: 167.709px; top: 82.934px; min-width: 1px; min-height: 1px;" data-locked="true" data-block-id="38c9bc07eafa">
-                                <div class="sl-block-content fragment" style="z-index: 13;" data-fragment-index="1"><img class="" data-natural-width="863" data-natural-height="834" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10228752/SillaReconst.PNG"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="sl-block sl-block-group" data-block-type="group" data-name="group-3eba04" data-block-id="f1eabee14f2c">
-                        <div class="sl-block-content sl-block-group-content fragment" style="transform-origin: 495.5px 377.967px; z-index: 15;" data-fragment-index="2">
-                            <div class="sl-block" data-block-type="shape" style="width: 31px; height: 29px; left: 480px; top: 363.434px;" data-name="shape-602e80" data-block-id="114d499fb26b">
-                                <div class="sl-block-content" data-shape-type="symbol-x-circle" data-shape-fill-color="#000000" data-shape-stretch="false" style="z-index: 21;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="xMidYMid" viewBox="0 0 32 32">
-                                        <g class="shape-element" fill="#000000" data-viewbox="0 0 32 32">
-                                            <path d="M16 0c-8.836 0-16 7.164-16 16s7.164 16 16 16 16-7.164 16-16-7.164-16-16-16zM23.914 21.086l-2.828 2.828-5.086-5.086-5.086 5.086-2.828-2.828 5.086-5.086-5.086-5.086 2.828-2.828 5.086 5.086 5.086-5.086 2.828 2.828-5.086 5.086 5.086 5.086z"></path>
-                                        </g>
-                                    </svg></div>
-                            </div>
-                            <div class="sl-block" data-block-type="shape" style="width: 31px; height: 29px; left: 480px; top: 467.5px;" data-name="shape-04ad01" data-block-id="23ceb63bcb64">
-                                <div class="sl-block-content" data-shape-type="symbol-x-circle" data-shape-fill-color="#000000" data-shape-stretch="false" style="z-index: 22;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="xMidYMid" viewBox="0 0 32 32">
-                                        <g class="shape-element" fill="#000000" data-viewbox="0 0 32 32">
-                                            <path d="M16 0c-8.836 0-16 7.164-16 16s7.164 16 16 16 16-7.164 16-16-7.164-16-16-16zM23.914 21.086l-2.828 2.828-5.086-5.086-5.086 5.086-2.828-2.828 5.086-5.086-5.086-5.086 2.828-2.828 5.086 5.086 5.086-5.086 2.828 2.828-5.086 5.086 5.086 5.086z"></path>
-                                        </g>
-                                    </svg></div>
-                            </div>
-                            <div class="sl-block" data-block-type="shape" style="width: 31px; height: 29px; left: 480px; top: 257.5px;" data-name="shape-768860" data-block-id="9dc4fa1b0809">
-                                <div class="sl-block-content" data-shape-type="symbol-x-circle" data-shape-fill-color="#000000" data-shape-stretch="false" style="z-index: 23;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="xMidYMid" viewBox="0 0 32 32">
-                                        <g class="shape-element" fill="#000000" data-viewbox="0 0 32 32">
-                                            <path d="M16 0c-8.836 0-16 7.164-16 16s7.164 16 16 16 16-7.164 16-16-7.164-16-16-16zM23.914 21.086l-2.828 2.828-5.086-5.086-5.086 5.086-2.828-2.828 5.086-5.086-5.086-5.086 2.828-2.828 5.086 5.086 5.086-5.086 2.828 2.828-5.086 5.086 5.086 5.086z"></path>
-                                        </g>
-                                    </svg></div>
-                            </div>
-                            <div class="sl-block" data-block-type="shape" style="width: 31px; height: 29px; left: 671px; top: 467.5px;" data-name="shape-da8aed" data-block-id="8a4c3a634a78">
-                                <div class="sl-block-content" data-shape-type="symbol-x-circle" data-shape-fill-color="#000000" data-shape-stretch="false" style="z-index: 24;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="xMidYMid" viewBox="0 0 32 32">
-                                        <g class="shape-element" fill="#000000" data-viewbox="0 0 32 32">
-                                            <path d="M16 0c-8.836 0-16 7.164-16 16s7.164 16 16 16 16-7.164 16-16-7.164-16-16-16zM23.914 21.086l-2.828 2.828-5.086-5.086-5.086 5.086-2.828-2.828 5.086-5.086-5.086-5.086 2.828-2.828 5.086 5.086 5.086-5.086 2.828 2.828-5.086 5.086 5.086 5.086z"></path>
-                                        </g>
-                                    </svg></div>
-                            </div>
-                            <div class="sl-block" data-block-type="shape" style="width: 31px; height: 29px; left: 289px; top: 469.434px;" data-name="shape-1c927a" data-block-id="076150c1e3ce">
-                                <div class="sl-block-content" data-shape-type="symbol-x-circle" data-shape-fill-color="#000000" data-shape-stretch="false" style="z-index: 25;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="xMidYMid" viewBox="0 0 32 32">
-                                        <g class="shape-element" fill="#000000" data-viewbox="0 0 32 32">
-                                            <path d="M16 0c-8.836 0-16 7.164-16 16s7.164 16 16 16 16-7.164 16-16-7.164-16-16-16zM23.914 21.086l-2.828 2.828-5.086-5.086-5.086 5.086-2.828-2.828 5.086-5.086-5.086-5.086 2.828-2.828 5.086 5.086 5.086-5.086 2.828 2.828-5.086 5.086 5.086 5.086z"></path>
-                                        </g>
-                                    </svg></div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
                 <section data-id="c08a8b73012b">
                     <div class="sl-block" data-block-type="text" data-name="text-c4e0f6" style="height: auto; width: 960px; left: 0px; top: 1px;" data-block-id="12f45c4eb936">
                         <div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10; color: rgb(28, 69, 135);">
@@ -1021,13 +986,13 @@
 
 
                     <div class="sl-block" data-block-type="image" data-name="image-6e0d6a" style="width: 960px; height: 585.897px; left: 0px; top: 106.103px; min-width: 1px; min-height: 1px;" data-block-id="02e0aac44918">
-                        <div class="sl-block-content fragment current-visible" style="z-index: 11;" data-fragment-index="0"><img class="" data-natural-width="1455" data-natural-height="888" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229393/Silla2.PNG"></div>
+                        <div class="sl-block-content" style="z-index: 11;"><img class="" data-natural-width="1455" data-natural-height="888" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229393/Silla2.PNG"></div>
                     </div>
                     <div class="sl-block" data-block-type="image" data-name="image-db0908" style="width: 960px; height: 588.025px; left: 0px; top: 105.039px; min-width: 1px; min-height: 1px;" data-block-id="647a4a281e60">
-                        <div class="sl-block-content fragment" style="z-index: 12;" data-fragment-index="1"><img class="" data-natural-width="1453" data-natural-height="890" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229401/SillaReconst2.PNG"></div>
+                        <div class="sl-block-content fragment" style="z-index: 12;" data-fragment-index="0"><img class="" data-natural-width="1453" data-natural-height="890" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229401/SillaReconst2.PNG"></div>
                     </div>
                     <div class="sl-block" data-block-type="text" data-name="text-eeac26" style="height: auto; width: 345px; left: 375px; top: 9px;" data-block-id="a2b8beb0c495">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;" data-fragment-index="0">
+                        <div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
                             <p>Gamma local 3%, 2 mm</p>
 
                             <p>Umbral 5%</p>
@@ -1052,17 +1017,17 @@
                         <div class="sl-block-content" style="z-index: 11;"><img class="" data-natural-width="1359" data-natural-height="667" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229452/SillaPerfil2.PNG"></div>
                     </div>
                     <div class="sl-block" data-block-type="shape" style="width: 16px; height: 49.5px; left: 168px; top: 502.92px;" data-name="shape-badf2a" data-block-id="c1418deb5997">
-                        <div class="sl-block-content fragment" data-shape-type="arrow-down" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 12;" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 16 50">
+                        <div class="sl-block-content" data-shape-type="arrow-down" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 12;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 16 50">
                                 <polygon points="8,49.5 16,24.75 11.2,24.75 11.2,0 4.8,0 4.8,24.75 0,24.75 8,49.5" class="shape-element" fill="#000000"></polygon>
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="shape" style="width: 16px; height: 49.5px; left: 472px; top: 478.17px;" data-name="shape-17be4a" data-block-id="1d98101a5931">
-                        <div class="sl-block-content fragment" data-shape-type="arrow-down" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 13;" data-fragment-index="1"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 16 50">
+                        <div class="sl-block-content" data-shape-type="arrow-down" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 13;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 16 50">
                                 <polygon points="8,49.5 16,24.75 11.2,24.75 11.2,0 4.8,0 4.8,24.75 0,24.75 8,49.5" class="shape-element" fill="#000000"></polygon>
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="text" data-name="text-603742" style="height: auto; width: 142px; left: 74px; top: 416.17px;" data-block-id="267822a115bf">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14; font-size: 60%;" data-fragment-index="0">
+                        <div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14; font-size: 60%;">
                             <p>D4: 12.78 cGy</p>
 
                             <p>Ref: 9.99 cGy</p>
@@ -1071,7 +1036,7 @@
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="text" style="height: auto; width: 142px; left: 388px; top: 392.17px;" data-name="text-8eb3bd" data-block-id="4480158499a4">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; font-size: 60%;" data-fragment-index="1">
+                        <div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; font-size: 60%;">
                             <p>D4: 25.72 cGy</p>
 
                             <p>Ref: 21.95 cGy</p>
@@ -1081,13 +1046,13 @@
                     </div>
                     <div class="sl-block" data-block-type="shape" style="width: 16px; height: 49.5px; left: 282px; top: 181.42px;" data-name="shape-a46bd3" data-block-id="e43d68936248">
                         <div class="sl-block-style" style="z-index: 16; transform: rotate(180deg);">
-                            <div class="sl-block-content fragment" data-shape-type="arrow-down" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 16;" data-fragment-index="2"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 16 50">
+                            <div class="sl-block-content" data-shape-type="arrow-down" data-shape-fill-color="#000000" data-shape-stretch="true" style="z-index: 16;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 16 50">
                                     <polygon points="8,49.5 16,24.75 11.2,24.75 11.2,0 4.8,0 4.8,24.75 0,24.75 8,49.5" class="shape-element" fill="#000000"></polygon>
                                 </svg></div>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="text" style="height: auto; width: 142px; left: 240px; top: 243.17px;" data-name="text-f3bd95" data-block-id="0791469e391a">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; font-size: 60%;" data-fragment-index="2">
+                        <div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; font-size: 60%;">
                             <p>D4: 152.38 cGy</p>
 
                             <p>Ref: 151.46 cGy</p>
@@ -1096,12 +1061,12 @@
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="text" data-name="text-b35f41" style="height: auto; width: 272px; left: 688px; top: 302.67px;" data-block-id="c7a130e7871b">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18; font-size: 80%;" data-fragment-index="3">
+                        <div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18; font-size: 80%;">
                             <p>¡Diferencia de dosis en estos puntos debida a componentes dispersa y transmisión!</p>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="line" data-name="line-d47074" style="width: auto; height: auto; left: 190px; top: 322.17px;" data-block-id="154b3b924502">
-                        <div class="sl-block-content fragment" data-line-x1="0" data-line-y1="224" data-line-x2="498" data-line-y2="0" data-line-color="#000000" data-line-start-type="line-arrow" data-line-end-type="none" style="z-index: 19;" data-fragment-index="3"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="498" height="224" viewBox="0 0 498 224">
+                        <div class="sl-block-content" data-line-x1="0" data-line-y1="224" data-line-x2="498" data-line-y2="0" data-line-color="#000000" data-line-start-type="line-arrow" data-line-end-type="none" style="z-index: 19;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="498" height="224" viewBox="0 0 498 224">
                                 <path class="line-element" fill="rgba(0,0,0,0)" stroke="#000000" stroke-width="2" d="M1.824 223.18 L498 0"></path>
                                 <path stroke="#000000" stroke-width="2" d="M 3.923 215.657 L 0.912 223.59 L 8.845 226.6 L 0.912 223.59" class="line-start"></path>
                                 <path class="line-skeleton" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,0)" d="M0 224 L498 0"></path>
@@ -1109,7 +1074,7 @@
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 501px; top: 322.17px;" data-name="line-9526a1" data-block-id="528b01bcc27d">
-                        <div class="sl-block-content fragment" data-line-x1="0" data-line-y1="188.25" data-line-x2="187" data-line-y2="0" data-line-color="#000000" data-line-start-type="line-arrow" data-line-end-type="none" style="z-index: 20;" data-fragment-index="3"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="187" height="188.25" viewBox="0 0 187 188.25">
+                        <div class="sl-block-content" data-line-x1="0" data-line-y1="188.25" data-line-x2="187" data-line-y2="0" data-line-color="#000000" data-line-start-type="line-arrow" data-line-end-type="none" style="z-index: 20;"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="187" height="188.25" viewBox="0 0 187 188.25">
                                 <path class="line-element" fill="rgba(0,0,0,0)" stroke="#000000" stroke-width="2" d="M1.409 186.831 L187 0"></path>
                                 <path stroke="#000000" stroke-width="2" d="M 0.676 179.055 L 0.705 187.541 L 9.19 187.512 L 0.705 187.541" class="line-start"></path>
                                 <path class="line-skeleton" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,0)" d="M0 188.25 L187 0"></path>
@@ -1132,35 +1097,35 @@
 
 
                     <div class="sl-block" data-block-type="text" data-name="text-eeac26" style="height: auto; width: 345px; left: 595px; top: 60px;" data-block-id="087450528838">
-                        <div class="sl-block-content fragment current-visible" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;" data-fragment-index="0">
+                        <div class="sl-block-content fragment fade-out" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;" data-fragment-index="0">
                             <p>Gamma local 3%, 1 mm</p>
 
                             <p>Umbral 20%</p>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="image" data-name="image-4ae298" style="width: 640px; height: 539.266px; left: 160px; top: 150.734px; min-width: 1px; min-height: 1px;" data-block-id="d21ecfe8be6e">
-                        <div class="sl-block-content fragment current-visible" style="z-index: 12;" data-fragment-index="0"><img class="" data-natural-width="845" data-natural-height="712" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229486/SillaRadiocromica.png"></div>
+                        <div class="sl-block-content fragment fade-out" style="z-index: 12;" data-fragment-index="0"><img class="" data-natural-width="845" data-natural-height="712" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229486/SillaRadiocromica.png"></div>
                     </div>
                     <div class="sl-block" data-block-type="text" style="height: auto; width: 345px; left: 595px; top: 60px;" data-name="text-e46545" data-block-id="3ac6266c5390">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;" data-fragment-index="1">
+                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;" data-fragment-index="0">
                             <p>Gamma local 3%, 1 mm</p>
 
                             <p>Umbral 1%</p>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="image" data-name="image-d340b5" style="width: 640.223px; height: 544px; left: 160px; top: 146px; min-width: 1px; min-height: 1px;" data-block-id="1f8f68ab6f1d">
-                        <div class="sl-block-content fragment" style="z-index: 14;" data-fragment-index="1"><img class="" data-natural-width="845" data-natural-height="718" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229491/SillaRadiocrómica2.png"></div>
+                        <div class="sl-block-content fragment" style="z-index: 14;" data-fragment-index="0"><img class="" data-natural-width="845" data-natural-height="718" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229491/SillaRadiocrómica2.png"></div>
                     </div>
                     <div class="sl-block" data-block-type="image" data-name="image-a4b7e9" style="width: 641.503px; height: 544px; left: 160px; top: 146px; min-width: 1px; min-height: 1px;" data-block-id="c0d9eab66dfb">
-                        <div class="sl-block-content fragment" style="z-index: 15;" data-fragment-index="3"><img class="" data-natural-width="954" data-natural-height="809" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229511/SillaRadiocromicaPerfiles.png"></div>
+                        <div class="sl-block-content fragment" style="z-index: 15;" data-fragment-index="1"><img class="" data-natural-width="954" data-natural-height="809" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10229511/SillaRadiocromicaPerfiles.png"></div>
                     </div>
                     <div class="sl-block" data-block-type="text" data-name="text-b35f41" style="height: auto; width: 272px; left: 688px; top: 425px;" data-block-id="f8f73a6367ca">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16; font-size: 80%; background-color: rgb(255, 255, 255);" data-fragment-index="2">
+                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16; font-size: 80%; background-color: rgb(255, 255, 255);" data-fragment-index="0">
                             <p>¡No se observa diferencia de dosis en esta zona!</p>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="line" data-name="line-d47074" style="width: auto; height: auto; left: 412px; top: 420.367px;" data-block-id="945a00075374">
-                        <div class="sl-block-content fragment" data-line-x1="0" data-line-y1="0" data-line-x2="276" data-line-y2="51.63299999999998" data-line-color="#ffffff" data-line-start-type="line-arrow" data-line-end-type="none" style="z-index: 17;" data-fragment-index="2"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="276" height="51.63299999999998" viewBox="0 0 276 51.63299999999998">
+                        <div class="sl-block-content fragment" data-line-x1="0" data-line-y1="0" data-line-x2="276" data-line-y2="51.63299999999998" data-line-color="#ffffff" data-line-start-type="line-arrow" data-line-end-type="none" style="z-index: 17;" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="276" height="51.63299999999998" viewBox="0 0 276 51.63299999999998">
                                 <path class="line-element" fill="rgba(0,0,0,0)" stroke="#ffffff" stroke-width="2" d="M1.966 0.368 L276 51.633"></path>
                                 <path stroke="#ffffff" stroke-width="2" d="M 7.984 -4.611 L 0.983 0.184 L 5.777 7.185 L 0.983 0.184" class="line-start"></path>
                                 <path class="line-skeleton" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,0)" d="M0 0 L276 51.633"></path>
@@ -1168,12 +1133,12 @@
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="text" style="height: auto; width: 272px; left: 688px; top: 550px;" data-name="text-df8ed5" data-block-id="3ef648b6e37b">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18; font-size: 80%; background-color: rgb(255, 255, 255);" data-fragment-index="4">
+                        <div class="sl-block-content fragment" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18; font-size: 80%; background-color: rgb(255, 255, 255);" data-fragment-index="2">
                             <p>Cámara de ionización tampoco mide distinto</p>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="line" style="width: auto; height: auto; left: 420px; top: 472px;" data-name="line-0f354d" data-block-id="baab98cef01b">
-                        <div class="sl-block-content fragment" data-line-x1="0" data-line-y1="196.36700000000002" data-line-x2="268" data-line-y2="0" data-line-color="#ffffff" data-line-start-type="line-arrow" data-line-end-type="none" style="z-index: 19;" data-fragment-index="3"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="268" height="196.36700000000002" viewBox="0 0 268 196.36700000000002">
+                        <div class="sl-block-content fragment" data-line-x1="0" data-line-y1="196.36700000000002" data-line-x2="268" data-line-y2="0" data-line-color="#ffffff" data-line-start-type="line-arrow" data-line-end-type="none" style="z-index: 19;" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="268" height="196.36700000000002" viewBox="0 0 268 196.36700000000002">
                                 <path class="line-element" fill="rgba(0,0,0,0)" stroke="#ffffff" stroke-width="2" d="M1.613 195.185 L268 0"></path>
                                 <path stroke="#ffffff" stroke-width="2" d="M 2.1 187.39 L 0.807 195.776 L 9.193 197.07 L 0.807 195.776" class="line-start"></path>
                                 <path class="line-skeleton" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,0)" d="M0 196.367 L268 0"></path>
@@ -1217,9 +1182,9 @@
             </section>
             <section class="stack" data-id="3f89c9980b94">
                 <section data-id="e9ef837660b8">
-                    <div class="sl-block" data-block-type="text" style="height: auto; width: 692.5px; left: 133.75px; top: 280px;" data-name="Text 1" data-block-id="9b6df525556c">
+                    <div class="sl-block" data-block-type="text" style="height: auto; width: 692.5px; left: 133.75px; top: 239px;" data-name="Text 1" data-block-id="9b6df525556c">
                         <div class="sl-block-content" data-has-letter-spacing="" data-has-line-height="" data-placeholder-tag="p" style="z-index: 10; color: rgb(28, 69, 135);" data-placeholder-text="Text">
-                            <h2>NUESTRA EXPERIENCIA: ESTADÍSTICAS DQA</h2>
+                            <h2>NUESTRA EXPERIENCIA: ESTADÍSTICAS DQA (DELIVERY QA)</h2>
                         </div>
                     </div>
                 </section>
@@ -1229,9 +1194,9 @@
                             <h2 style="text-align:left">VERIFICACIÓN DEL MODELO A POSTERIORI: ESTADÍSTICAS DQA</h2>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 746px; left: 0px; top: 196px; height: auto;" data-block-id="3d7854158d25">
+                    <div class="sl-block" data-block-type="text" style="width: 728px; left: 0px; top: 177px; height: auto;" data-block-id="3d7854158d25">
                         <div class="sl-block-content" style="font-size: 75%; line-height: 1.69; z-index: 10;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
-                            <p style="text-align:justify">Verificación pretratamiento de todos los planes clínicos con tres métodos: ​</p>
+                            <p style="text-align:justify">Verificación pretratamiento (DQA) de todos los planes clínicos con tres métodos: ​</p>
 
                             <ul>
                                 <li style="text-align:justify"><strong>Delta4 </strong>Phantom Plus (Scandidos AB) ​</li>
@@ -1240,7 +1205,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 631.484px; left: 0px; top: 359px; height: auto;" data-block-id="c6f740d6a9cc">
+                    <div class="sl-block" data-block-type="text" style="width: 631.484px; left: 0px; top: 416px; height: auto;" data-block-id="c6f740d6a9cc">
                         <div class="sl-block-content" style="font-size: 75%; line-height: 1.69; z-index: 11;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
                             <p style="text-align:justify"><strong>1166</strong>&nbsp;planes en total desde 2020, de los cuales: ​</p>
 
@@ -1257,7 +1222,7 @@
                     <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="442821daa6cb" style="width: 136.405px; height: 242.498px; left: 823.595px; top: 255.987px; min-width: 1px; min-height: 1px;">
                         <div class="sl-block-content" style="z-index: 14;"><img class="" data-natural-width="360" data-natural-height="640" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808286/image.png"></div>
                     </div>
-                    <div class="sl-block" data-block-type="image" data-name="Image 3" data-block-id="9a34ebb5c913" style="width: 201.874px; height: 228.553px; left: 611px; top: 395.447px; min-width: 1px; min-height: 1px;">
+                    <div class="sl-block" data-block-type="image" data-name="Image 3" data-block-id="9a34ebb5c913" style="width: 201.874px; height: 228.553px; left: 611px; top: 416px; min-width: 1px; min-height: 1px;">
                         <div class="sl-block-content" style="z-index: 15;"><img class="" data-natural-width="374" data-natural-height="666" data-crop-x="0" data-crop-y="0.086207" data-crop-width="1" data-crop-height="0.635776" style="left: 0px; top: -31px; width: 202px; height: 359px;" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808287/image.png"></div>
                     </div>
                 </section>
@@ -1268,29 +1233,29 @@
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="image" data-name="Image 1" data-block-id="f0d2a904c3fb" style="width: 332.348px; height: 249.261px; left: 105.724px; top: 76px; min-width: 1px; min-height: 1px;">
-                        <div class="sl-block-content fragment" style="z-index: 10;" data-fragment-index="0"><img class="" data-natural-width="768" data-natural-height="576" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808296/6X_Camara_Eclipse15_vs_Eclipse18__1_.svg"></div>
+                        <div class="sl-block-content" style="z-index: 10;"><img class="" data-natural-width="768" data-natural-height="576" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808296/6X_Camara_Eclipse15_vs_Eclipse18__1_.svg"></div>
                     </div>
                     <div class="sl-block" data-block-type="image" data-name="Image 2" data-block-id="8e9516fc1b88" style="width: 332.348px; height: 249.261px; left: 514.211px; top: 76px; min-width: 1px; min-height: 1px;">
-                        <div class="sl-block-content fragment" style="z-index: 11;" data-fragment-index="1"><img class="" data-natural-width="768" data-natural-height="576" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808297/6FFF_Camara_Eclipse15_vs_Eclipse18__1_.svg"></div>
+                        <div class="sl-block-content fragment" style="z-index: 11;" data-fragment-index="0"><img class="" data-natural-width="768" data-natural-height="576" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808297/6FFF_Camara_Eclipse15_vs_Eclipse18__1_.svg"></div>
                     </div>
                     <div class="sl-block" data-block-type="image" data-name="Image 3" data-block-id="18ceb4a92d19" style="width: 476.142px; height: 238.071px; left: 0px; top: 461.929px; min-width: 1px; min-height: 1px;">
-                        <div class="sl-block-content fragment" style="z-index: 12;" data-fragment-index="0"><img class="" data-natural-width="1344" data-natural-height="672" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808305/6X_Metricas_Eclipse15_vs_Eclipse18__1_.svg"></div>
+                        <div class="sl-block-content" style="z-index: 12;"><img class="" data-natural-width="1344" data-natural-height="672" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808305/6X_Metricas_Eclipse15_vs_Eclipse18__1_.svg"></div>
                     </div>
                     <div class="sl-block" data-block-type="image" data-name="Image 4" data-block-id="47513a6f4e5b" style="width: 476.142px; height: 238.071px; left: 483.858px; top: 461.929px; min-width: 1px; min-height: 1px;">
-                        <div class="sl-block-content fragment" style="z-index: 13;" data-fragment-index="1"><img class="" data-natural-width="1344" data-natural-height="672" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808307/6FFF_Metricas_Eclipse15_vs_Eclipse18__1_.svg"></div>
+                        <div class="sl-block-content fragment" style="z-index: 13;" data-fragment-index="0"><img class="" data-natural-width="1344" data-natural-height="672" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12808307/6FFF_Metricas_Eclipse15_vs_Eclipse18__1_.svg"></div>
                     </div>
                     <div class="sl-block" data-block-type="shape" data-name="Shape 1" data-block-id="1dfaae9046d0" style="width: 194.929px; height: 217.369px; left: 285.071px; top: 454.974px;">
-                        <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 15;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="2"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 195 217">
+                        <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 15;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="1"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 195 217">
                                 <defs>
-                                    <clipPath id="shape-mask-1-1776254480797">
+                                    <clipPath id="shape-mask-2-1776275135997">
                                         <rect width="194.929" height="217.369" rx="0" ry="0"></rect>
                                     </clipPath>
                                 </defs>
-                                <rect width="194.929" height="217.369" rx="0" ry="0" clip-path="url(#shape-mask-1-1776254480797)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
+                                <rect width="194.929" height="217.369" rx="0" ry="0" clip-path="url(#shape-mask-2-1776275135997)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="text" data-name="Text 2" data-block-id="5440e5fac71d" style="width: 472.5px; height: 36.9848px; left: 438.072px; top: 560px;" data-text-layout="fixed">
-                        <div class="sl-block-content fragment" data-placeholder-tag="p" style="text-align: left; z-index: 16; background-color: rgb(164, 194, 244); font-size: 75%;" data-fragment-index="2" data-placeholder-text="Text">
+                        <div class="sl-block-content fragment" data-placeholder-tag="p" style="text-align: left; z-index: 16; background-color: rgb(164, 194, 244); font-size: 75%;" data-fragment-index="1" data-placeholder-text="Text">
                             <p>Menor % de paso gamma 2% 2 mm para 6X</p>
                         </div>
                     </div>
@@ -1313,21 +1278,21 @@
                     <div class="sl-block" data-block-type="shape" data-name="Shape 1" style="width: 74.5px; height: 129.428px; left: 880px; top: 423.572px;" data-block-id="2a3947a61277">
                         <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 15;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 75 129">
                                 <defs>
-                                    <clipPath id="shape-mask-3-1776254480804">
+                                    <clipPath id="shape-mask-4-1776275136033">
                                         <rect width="74.5" height="129.428" rx="0" ry="0"></rect>
                                     </clipPath>
                                 </defs>
-                                <rect width="74.5" height="129.428" rx="0" ry="0" clip-path="url(#shape-mask-3-1776254480804)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
+                                <rect width="74.5" height="129.428" rx="0" ry="0" clip-path="url(#shape-mask-4-1776275136033)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="shape" data-name="Shape 2" style="width: 80.0105px; height: 168.714px; left: 591.853px; top: 401px;" data-block-id="46caed831455">
                         <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgba(0, 0, 0, 0)" data-shape-stretch="true" style="z-index: 13;" data-shape-stroke-color="#ff0000" data-shape-stroke-width="3px" data-fragment-index="0"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 80 169">
                                 <defs>
-                                    <clipPath id="shape-mask-2-1776254480803">
+                                    <clipPath id="shape-mask-3-1776275136029">
                                         <rect width="80.0105" height="168.714" rx="0" ry="0"></rect>
                                     </clipPath>
                                 </defs>
-                                <rect width="80.0105" height="168.714" rx="0" ry="0" clip-path="url(#shape-mask-2-1776254480803)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
+                                <rect width="80.0105" height="168.714" rx="0" ry="0" clip-path="url(#shape-mask-3-1776275136029)" class="shape-element" fill="rgba(0, 0, 0, 0)" stroke="#ff0000" stroke-width="6"></rect>
                             </svg></div>
                     </div>
                     <div class="sl-block" data-block-type="text" data-name="Text 2" style="width: 604.939px; height: auto; left: 17.5305px; top: 569.714px;" data-block-id="58df43a1f7c2">
@@ -1342,33 +1307,46 @@
                             <h2 style="text-align:left">CONCLUSIONES ESTADÍSTICAS DQA&nbsp;</h2>
                         </div>
                     </div>
-                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 116.01px; height: 389.99px;" data-text-layout="fixed" data-block-id="f7175e2e4ec2" data-name="Text 2">
-                        <div class="sl-block-content" style="font-size: 75%; z-index: 11; line-height: 1.95;" data-placeholder-tag="p" data-has-line-height="">
+                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 70px; height: 389.99px;" data-text-layout="fixed" data-block-id="f7175e2e4ec2" data-name="Text 2">
+                        <div class="sl-block-content" style="font-size: 75%; z-index: 11; line-height: 1.95;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
                             <ul>
-                                <li><span style="font-size:1.0em">Tanto el modelo del MLC antiguo como el mejorado consiguen una <strong>buena coincidencia</strong>&nbsp;entre la dosis calculada y la medida (con cámara y Delta4 γ 3% 2 mm)</span></li>
-                                <li><span style="font-size:1.0em">Sin embargo en los tratamientos con <strong>volúmenes irradiados grandes</strong>&nbsp;(recto, próstata con pelvis) el porcentaje de paso <span style="color:rgb(0, 0, 0); text-align:left">γ 2% 2 mm con el Delta 4 se resiente.</span></span></li>
-                                <li><span style="font-size:1.0em"><span style="color:rgb(0, 0, 0); text-align:left">Esto puede ser debido a la mayor <strong>componente de radiación dispersa</strong>&nbsp;en estos campos → influencia de la dependencia energética en la respuesta de los diodos</span></span></li>
-                                <li><span style="font-size:1.0em"><span style="color:rgb(0, 0, 0); text-align:left">¿Podría usarse un <strong>factor de corrección adicional</strong>&nbsp;en estos tratamientos para mejorar el porcentaje de paso </span><span style="color:rgb(0, 0, 0); text-align:left">γ 2% 2 mm</span></span></li>
+                                <li><span style="font-size:1.0em">Tanto el modelo del MLC antiguo (Eclipse 15.6) como el mejorado (Eclipse 18.0) consiguen <strong>buena coincidencia</strong>&nbsp;entre la dosis calculada y la medida (con cámara y Delta4 γ 3% 2 mm)</span></li>
+                                <li class="fragment" data-fragment-index="0"><span style="font-size:1.0em">Sin embargo en los tratamientos con <strong>volúmenes irradiados grandes</strong>&nbsp;(recto, próstata con pelvis) el porcentaje de paso <span style="color:rgb(0, 0, 0); text-align:left">γ 2% 2 mm con el Delta 4 se resiente.</span></span></li>
+                                <li class="fragment" data-fragment-index="1"><span style="font-size:1.0em"><span style="color:rgb(0, 0, 0); text-align:left">Esto puede ser debido a la mayor <strong>componente de radiación dispersa</strong>&nbsp;en estos campos &nbsp; &nbsp; → influencia de la dependencia energética en la respuesta de los diodos</span></span></li>
+                                <li class="fragment" data-fragment-index="2"><span style="font-size:1.0em"><span style="color:rgb(0, 0, 0); text-align:left">¿Podría usarse un <strong>factor de corrección adicional</strong>&nbsp;en estos tratamientos para mejorar el porcentaje de paso </span><span style="color:rgb(0, 0, 0); text-align:left">γ 2% 2 mm</span></span></li>
                             </ul>
                         </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" data-name="image-bdc6a5" style="width: 348px; height: 261px; left: 488px; top: 420px; min-width: 1px; min-height: 1px;" data-block-id="a4a347de2273">
+                        <div class="sl-block-content fragment" style="z-index: 12;" data-fragment-index="2"><img class="" data-natural-width="320" data-natural-height="240" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12553850/Creaci%C3%B3n_de_GIF_Animado_de_Acelerador__1_.gif"></div>
                     </div>
                 </section>
             </section>
             <section class="stack" data-id="6f125a60ee6f">
                 <section data-id="e94777eda7e7">
                     <div class="sl-block" data-block-type="text" style="height: auto; width: 960px; left: 0px; top: 0px;" data-block-id="113ead9ffaf6">
-                        <div class="sl-block-content" data-has-letter-spacing="" data-has-line-height="" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 10; color: rgb(28, 69, 135);font-size: 70%;">
+                        <div class="sl-block-content" data-has-letter-spacing="" data-has-line-height="" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; color: rgb(28, 69, 135); font-size: 70%;">
                             <h2 style="text-align:left">CONCLUSIONES</h2>
                         </div>
                     </div>
                     <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 120.5px; height: auto;" data-block-id="8acd63a711c6">
-                        <div class="sl-block-content" style="font-size: 80%; line-height: 1.82;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
+                        <div class="sl-block-content" style="font-size: 80%; line-height: 1.82; z-index: 10;" data-placeholder-tag="p" data-has-line-height="" data-placeholder-text="Text">
                             <ul>
-                                <li class="fragment" data-fragment-index="0">El Delta4 Phantom+ tiene características que lo convierten en una <strong>excelente herramienta</strong>&nbsp;para el modelado y verificación del sistema de planificación</li>
-                                <li class="fragment" data-fragment-index="1">Pero: <strong>dependencia con la energía</strong>&nbsp;de los diodos → precaución en la introducción de los factores de corrección de tamaño de campo → hay que ser conscientes de las limitaciones del detector para no introducir distorsiones en el modelo</li>
-                                <li class="fragment" data-fragment-index="2">Importante usarlo en <strong>combinación con otros detectores</strong>&nbsp;→ la cámara de ionización sigue siendo el "gold standard" → el Delta4 Phantom+ cubre los huecos donde esta no llega</li>
+                                <li class="visible">El Delta4 Phantom+ tiene características que lo convierten en una <strong>excelente herramienta</strong>&nbsp;para el modelado y verificación del sistema de planificación</li>
+                                <li class="fragment" data-fragment-index="0">Pero: <strong>dependencia con la energía</strong>&nbsp;de los diodos → precaución en la introducción de los factores de corrección de tamaño de campo → hay que ser conscientes de las limitaciones del detector para no introducir distorsiones en el modelo</li>
+                                <li class="fragment" data-fragment-index="1">Importante usarlo en <strong>combinación con otros detectores</strong>&nbsp;→ la cámara de ionización sigue siendo el "gold standard" → el Delta4 Phantom+ cubre los huecos donde esta no llega</li>
                                 <li class="fragment" data-fragment-index="2">La evaluación de estadísticas de DQAs realizadas con el Delta4 y evaluación de métricas de complejidad permite establecer <strong>soluciones de clase</strong>&nbsp;que garantizan la seguridad de los planes&nbsp;</li>
                             </ul>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" data-name="image-877b65" style="width: 353.273px; height: 402px; left: -55.637px; top: 375px; min-width: 1px; min-height: 1px;" data-block-id="52cd3d2a5377">
+                        <div class="sl-block-style" style="z-index: 12; opacity: 0.25; transform: rotate(26deg);">
+                            <div class="sl-block-content" style="z-index: 12;"><img class="" data-natural-width="29" data-natural-height="33" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248267/castilla.svg"></div>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" data-name="image-fcf60d" style="width: 623.149px; height: 721.541px; left: 613.862px; top: -67.886px; min-width: 1px; min-height: 1px;" data-block-id="ceda7b459df9">
+                        <div class="sl-block-style" style="z-index: 13; opacity: 0.25; transform: rotate(-40deg);">
+                            <div class="sl-block-content" style="z-index: 13;"><img class="" data-natural-width="38" data-natural-height="44" data-lazy-loaded="" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/10248264/leon.svg"></div>
                         </div>
                     </div>
                 </section>
