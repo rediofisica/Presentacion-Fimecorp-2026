@@ -27,6 +27,8 @@ https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803152/image.pn
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803153/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12803157/TGBeam_SEFM25.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12806911/image.png
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12809641/DLG1.gif
+https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12809663/DLG2.gif
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807175/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807179/image.png
 https://s3.amazonaws.com/media-p.slid.es/uploads/111310/images/12807195/image.png
